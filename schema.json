@@ -1,0 +1,252 @@
+[
+ {
+   "description": "encounter_id",
+   "name": "encounter_id",
+   "type": "Integer"
+ },
+ {
+   "description": "patient_nbr",
+   "name": "patient_nbr",
+   "type": "Integer"
+ },
+ {
+   "description": "race",
+   "name": "race",
+   "type": "String"
+ },
+ {
+   "description": "gender",
+   "name": "gender",
+   "type": "String"
+ },
+ {
+   "description": "age",
+   "name": "age",
+   "type": "String"
+ },
+ {
+   "description": "weight",
+   "name": "weight",
+   "type": "String"
+ },
+ {
+   "description": "admission_type_id",
+   "name": "admission_type_id",
+   "type": "Integer"
+ },
+ {
+   "description": "discharge_disposition_id",
+   "name": "discharge_disposition_id",
+   "type": "Integer"
+ },
+ {
+   "description": "admission_source_id",
+   "name": "admission_source_id",
+   "type": "Integer"
+ },
+ {
+   "description": "time_in_hospital",
+   "name": "time_in_hospital",
+   "type": "Integer"
+ },
+ {
+   "description": "payer_code",
+   "name": "payer_code",
+   "type": "String"
+ },
+ {
+   "description": "medical_specialty",
+   "name": "medical_specialty",
+   "type": "String"
+ },
+ {
+   "description": "num_lab_procedures",
+   "name": "num_lab_procedures",
+   "type": "Integer"
+ },
+ {
+   "description": "num_procedures",
+   "name": "num_procedures",
+   "type": "Integer"
+ },
+ {
+   "description": "num_medications",
+   "name": "num_medications",
+   "type": "Integer"
+ },
+ {
+   "description": "number_outpatient",
+   "name": "number_outpatient",
+   "type": "Integer"
+ },
+ {
+   "description": "number_emergency",
+   "name": "number_emergency",
+   "type": "Integer"
+ },
+ {
+   "description": "number_inpatient",
+   "name": "number_inpatient",
+   "type": "Integer"
+ },
+ {
+   "description": "diag_1",
+   "name": "diag_1",
+   "type": "String"
+ },
+ {
+   "description": "diag_2",
+   "name": "diag_2",
+   "type": "String"
+ },
+ {
+   "description": "diag_3",
+   "name": "diag_3",
+   "type": "String"
+ },
+ {
+   "description": "number_diagnoses",
+   "name": "number_diagnoses",
+   "type": "Integer"
+ },
+ {
+   "description": "max_glu_serum",
+   "name": "max_glu_serum",
+   "type": "String"
+ },
+ {
+   "description": "A1Cresult",
+   "name": "A1Cresult",
+   "type": "String"
+ },
+ {
+   "description": "metformin",
+   "name": "metformin",
+   "type": "String"
+ },
+ {
+   "description": "repaglinide",
+   "name": "repaglinide",
+   "type": "String"
+ },
+ {
+   "description": "nateglinide",
+   "name": "nateglinide",
+   "type": "String"
+ },
+ {
+   "description": "chlorpropamide",
+   "name": "chlorpropamide",
+   "type": "String"
+ },
+ {
+   "description": "glimepiride",
+   "name": "glimepiride",
+   "type": "String"
+ },
+ {
+   "description": "acetohexamide",
+   "name": "acetohexamide",
+   "type": "String"
+ },
+ {
+   "description": "glipizide",
+   "name": "glipizide",
+   "type": "String"
+ },
+ {
+   "description": "glyburide",
+   "name": "glyburide",
+   "type": "String"
+ },
+ {
+   "description": "tolbutamide",
+   "name": "tolbutamide",
+   "type": "String"
+ },
+ {
+   "description": "pioglitazone",
+   "name": "pioglitazone",
+   "type": "String"
+ },
+ {
+   "description": "rosiglitazone",
+   "name": "rosiglitazone",
+   "type": "String"
+ },
+ {
+   "description": "acarbose",
+   "name": "acarbose",
+   "type": "String"
+ },
+ {
+   "description": "miglitol",
+   "name": "miglitol",
+   "type": "String"
+ },
+ {
+   "description": "troglitazone",
+   "name": "troglitazone",
+   "type": "String"
+ },
+ {
+   "description": "tolazamide",
+   "name": "tolazamide",
+   "type": "String"
+ },
+ {
+   "description": "examide",
+   "name": "examide",
+   "type": "String"
+ },
+ {
+   "description": "citoglipton",
+   "name": "citoglipton",
+   "type": "String"
+ },
+ {
+   "description": "insulin",
+   "name": "insulin",
+   "type": "String"
+ },
+ {
+   "description": "glyburide_metformin",
+   "name": "glyburide_metformin",
+   "type": "String"
+ },
+ {
+   "description": "glipizide_metformin",
+   "name": "glipizide_metformin",
+   "type": "String"
+ },
+ {
+   "description": "glimepiride_pioglitazone",
+   "name": "glimepiride_pioglitazone",
+   "type": "String"
+ },
+ {
+   "description": "metformin_rosiglitazone",
+   "name": "metformin_rosiglitazone",
+   "type": "String"
+ },
+ {
+   "description": "metformin_pioglitazone",
+   "name": "metformin_pioglitazone",
+   "type": "String"
+ },
+ {
+   "description": "change",
+   "name": "change",
+   "type": "String"
+ },
+ {
+   "description": "diabetesMed",
+   "name": "diabetesMed",
+   "type": "String"
+ },
+ {
+   "description": "readmitted",
+   "name": "readmitted",
+   "type": "String"
+ }
+]
